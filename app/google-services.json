@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986616629828",
+    "firebase_url": "https://kotlin-264117.firebaseio.com",
+    "project_id": "kotlin-264117",
+    "storage_bucket": "kotlin-264117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986616629828:android:1b0a09c0fcca35f07bca11",
+        "android_client_info": {
+          "package_name": "org.wit.placemark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986616629828-n5jvs34f4akm18u52cvis9m4u0gtrv08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wit.placemark",
+            "certificate_hash": "e920cd00351669230dc4c26520b05aa8a4811186"
+          }
+        },
+        {
+          "client_id": "986616629828-or55852a4itmld9giv03vf83ikjk2hrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhNj9fIrbt0i4z5cQpVIdTOiSKyn83e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986616629828-or55852a4itmld9giv03vf83ikjk2hrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
